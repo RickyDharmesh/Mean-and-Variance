@@ -51,6 +51,8 @@ It shows the distance of a random variable from its mean. It is calcualted as
 ```
 NAME : P RICKY DHARMESH
 REF NO: 212225040335
+DATE:29/01/2026
+SLOT NO.:T1-N4
 ```
 
 ```
